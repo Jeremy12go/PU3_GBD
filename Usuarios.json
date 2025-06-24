@@ -1,0 +1,19 @@
+{
+  "_id": "64f8c2d8e29a1f001f3b2d1a",
+  "nombre": "Daniela Torres",
+  "edad": 32,
+  "email": "daniela.torres@example.com",
+  "activo": true,
+  "fechaRegistro": "2024-09-12T15:30:00Z",
+  "direccion": {
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "codigoPostal": "1406"
+  },
+  "telefonos": ["+54 11 2233 4455", "+54 9 11 6677 8899"],
+  "roles": ["usuario", "editor"],
+  "preferencias": {
+    "notificaciones": true,
+    "tema": "oscuro"
+  }
+}
