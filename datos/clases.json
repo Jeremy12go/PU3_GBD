@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "236afcb9-d3da-4c0b-9576-4bb1f51aee34",
+    "nombre": "Matemática Aplicada",
+    "creditos": 4,
+    "syllabus": "",
+    "encargado": "dd9c691a-d9b5-420e-bb43-4e83fb8aa8d0"
+  },
+  {
+    "_id": "9ca64eac-b75f-4c7b-aff1-85ab9da05bc9",
+    "nombre": "Literatura Moderna",
+    "creditos": 6,
+    "syllabus": "",
+    "encargado": "f27737af-af9e-4c50-8736-dd05186e5c03"
+  },
+  {
+    "_id": "a055681e-2ef8-48a7-a513-a425cc3d52a0",
+    "nombre": "Física General",
+    "creditos": 5,
+    "syllabus": "",
+    "encargado": "8b2d8640-958a-4ebf-b90f-7dfe7201eeae"
+  },
+  {
+    "_id": "710439c4-9e19-41a7-848c-a403e2694bfc",
+    "nombre": "Biología Celular",
+    "creditos": 4,
+    "syllabus": "",
+    "encargado": "911898af-9573-4a9a-96ed-12a76d1e92d3"
+  },
+  {
+    "_id": "65a134b6-1489-4cde-afed-4f85aadcd327",
+    "nombre": "Inglés Técnico",
+    "creditos": 4,
+    "syllabus": "",
+    "encargado": "34bed669-5dd9-4747-a169-4df503849ff1"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "dd9c691a-d9b5-420e-bb43-4e83fb8aa8d0",
+    "nombre": "Andrea Torres",
+    "edad": 45,
+    "mail": "andrea.torres@uni.cl",
+    "telefonos": [
+      "+56912345678"
+    ]
+  },
+  {
+    "_id": "f27737af-af9e-4c50-8736-dd05186e5c03",
+    "nombre": "Carlos Muñoz",
+    "edad": 50,
+    "mail": "carlos.munoz@uni.cl",
+    "telefonos": [
+      "+56987654321"
+    ]
+  },
+  {
+    "_id": "8b2d8640-958a-4ebf-b90f-7dfe7201eeae",
+    "nombre": "Beatriz Salinas",
+    "edad": 39,
+    "mail": "beatriz.salinas@uni.cl",
+    "telefonos": [
+      "+56933445566"
+    ]
+  },
+  {
+    "_id": "911898af-9573-4a9a-96ed-12a76d1e92d3",
+    "nombre": "Jorge León",
+    "edad": 42,
+    "mail": "jorge.leon@uni.cl",
+    "telefonos": [
+      "+56911223344"
+    ]
+  },
+  {
+    "_id": "34bed669-5dd9-4747-a169-4df503849ff1",
+    "nombre": "Natalia Rojas",
+    "edad": 36,
+    "mail": "natalia.rojas@uni.cl",
+    "telefonos": [
+      "+56999887766"
+    ]
+  }
+]
