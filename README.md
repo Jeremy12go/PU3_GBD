@@ -422,3 +422,9 @@ db.clases.find({ encargado: "dd9c691a-d9b5-420e-bb43-4e83fb8aa8d0" })
 db.alumnos.countDocuments()
 db.clases.countDocuments({ creditos: 4 })
 ```
+
+- Eliminar documento
+```mongosh
+db.profesores.deleteOne({ nombre: "Beatriz Salinas" })
+db.clases.deleteMany({ creditos: { $lte: 4} })
+```
